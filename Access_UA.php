@@ -59,6 +59,9 @@ class Access_UA {
 		'Tiny Tiny RSS', // RSS 阅读器
 		'inoreader', // RSS 阅读器
 		'python-requests',
+		'archive.org_bot', // 互联网博物馆存档爬虫
+		'Go-http-client',
+		'CensysInspect', // censys.io 爬虫
 	);
 
 	private $ua;
